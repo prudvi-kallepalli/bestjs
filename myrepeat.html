@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="myrepeat2.js"></script>
+	<script type="text/javascript" src="best.js"></script>
+</head>
+<body>
+	<table border="1" id="table1">
+		<tr>
+			<th>S.no</th>
+			<th>Name</th>
+			<th>Email</th>
+		</tr>
+		<tr my-repeat="all">
+			<td>person.sno</td>
+			<td>person.name</td>
+			<td>person.email</td>
+		</tr>
+	</table>
+	<button type="button" onclick="repeatTemplate()">click</button>
+</body>
+</html>

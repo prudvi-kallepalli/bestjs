@@ -1,0 +1,1 @@
+window.person=[{sno:"1",name:"ram",email:"ram@gmail.com"},{sno:"2",name:"jam",email:"jam@gmail.com"},{sno:"3",name:"pam",email:"pam@gmail.com"},{sno:"4",name:"ham",email:"ham@gmail.com"}];
